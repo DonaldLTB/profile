@@ -65,14 +65,12 @@ div {
 }
 
 .btn-blue {
-  background-color: #001845;
   color: white;
   padding: 8px 24px;
   border-radius: 8px;
 }
 
 .btn-blue:hover {
-  background-color: #0466C8;
   color:white;
 }
 
